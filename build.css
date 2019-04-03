@@ -1,0 +1,82 @@
+/* Style the tab */
+div {
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+}
+
+li {
+  margin: 10px; 0;
+}
+
+#profile {
+  float: right;
+  max-width: 15%;
+  max-height: 15%;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: white;
+  color: black;
+}
