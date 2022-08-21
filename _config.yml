@@ -50,6 +50,7 @@ header_pages:
  - pages/experience.md
  - pages/publications.md
  - pages/recorded_talks.md
+ - pages/blog.md
 
 # Build settings
 theme: minima
