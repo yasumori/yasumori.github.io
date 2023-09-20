@@ -3,10 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-My [Google Scholar](https://scholar.google.com/
-citations?hl=en&authuser=1&user=M63ns5YAAAAJ) page.
+My [Google Scholar](https://scholar.google.ca/citations?user=AIl8ZwfaGMEC&hl=en) page.
 
 ***
+[Improving Noise Robustness for Spoken Content Retrieval using Semi-supervised ASR and N-best Transcripts for BERT-based Ranking Models](https://arxiv.org/abs/2301.06056) <br>
+<b>Y. Moriya</b>, and G. J. F. Jones <br>
+Spoken Language Technology 2022
+
 [An ASR N-best Transcript Neural Ranking Model for Spoken Content Retrieval](../files/ASRU_2021_MANUSCRIPTS.pdf) <br>
 <b>Y. Moriya</b>, and G. J. F. Jones <br>
 Automatic Speech Recognition and Understanding 2021
@@ -21,6 +24,10 @@ Text REtrieval Conference (TREC) Proceedings 2020
 
 [MediaEval 2019: Eyes and Ears Together](http://ceur-ws.org/Vol-2670/MediaEval_19_paper_2.pdf)<br>
 <b>Y. Moriya</b>, Ramon Sanabria, Florian Metze, and G. J. F. Jones <br>
+In Proceedings of MediaEval 2019
+
+[DCU-ADAPT at MediaEval 2019: GameStory](https://ceur-ws.org/Vol-2670/MediaEval_19_paper_17.pdf)<br>
+<b>Y. Moriya</b>, and G. J. F. Jones <br>
 In Proceedings of MediaEval 2019
 
 [Multimodal Speaker Adaptation of Acoustic Model and Language Model for ASR using Speaker Face Embedding](https://ieeexplore.ieee.org/document/8683724) <br>
